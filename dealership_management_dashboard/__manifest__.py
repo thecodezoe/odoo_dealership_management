@@ -25,10 +25,6 @@
 
     'depends': ['base'],
 
-    'data': [
-    ],
-    'demo': [
-    ],
     'application': True,
     'installable': True
 }
