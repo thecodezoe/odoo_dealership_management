@@ -5,6 +5,7 @@
     'summary': """
     Dealership Management,
     Management,
+    Management Dashboard,
     Odoo Dealership Management,
     Car Dealership Management,
     Automobile Dealership Management,
